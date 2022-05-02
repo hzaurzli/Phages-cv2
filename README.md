@@ -36,7 +36,7 @@ python phage_img_counts -f phage.jpg -c 7
 ```
 
 # The graph
-![](https://user-images.githubusercontent.com/47686371/166219409-62ee0926-5f40-4607-b1db-db94ad13ae85.png)
+![](https://user-images.githubusercontent.com/47686371/166222838-ec6a8a9e-62ce-4967-a455-1ef49ed29fd3.png)
 
 **The red dots represent the identified plaques.** 
 
