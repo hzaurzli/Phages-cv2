@@ -3,9 +3,9 @@ Identify and count plaques
 
 # How to use Phages-cv2
 ## Installation
+***Version:python3.6***
 ```
-***python3.6***
-# required package
+# Required package
 opencv-python
 numpy
 pandas
@@ -31,7 +31,7 @@ optional arguments:
                         Number of corridors that exist
                       
                       
-#example
+#Example
 python phage_img_counts -f phage.jpg -c 7
 ```
 
