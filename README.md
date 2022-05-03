@@ -40,3 +40,18 @@ python phage_img_counts -f phage.jpg -c 7
 
 **The red dots represent the identified plaques.** 
 
+# Result
+```
+# commond line
+python phage_img_counts.py -f phage.jpg -c 8
+
+共检测出183个斑点
+图片存在的第1个甬道共2个斑点
+图片存在的第2个甬道共18个斑点
+图片存在的第3个甬道共20个斑点
+图片存在的第4个甬道共36个斑点
+图片存在的第5个甬道共24个斑点
+图片存在的第6个甬道共27个斑点
+图片存在的第7个甬道共29个斑点
+图片存在的第8个甬道共27个斑点
+```
