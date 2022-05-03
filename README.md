@@ -31,7 +31,7 @@ optional arguments:
                         Number of corridors that exist
                       
                       
-#Example
+# Example
 python phage_img_counts -f phage.jpg -c 7
 ```
 
