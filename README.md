@@ -32,7 +32,7 @@ optional arguments:
                       
                       
 # Example
-python phage_img_counts -f phage.jpg -c 7
+python phage_img_counts.py -f phage.jpg -c 7
 ```
 
 # The graph
